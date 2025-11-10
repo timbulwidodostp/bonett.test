@@ -1,6 +1,8 @@
 # bonett.test
 Bonett-Seier test of Geary's kurtosis Use bonett.test (moments) With (In) R Software
 
+https://www.youtube.com/watch?v=wWmTnek9B9o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
